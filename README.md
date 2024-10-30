@@ -1,2 +1,1 @@
-# rss-feed-scraper
-A repository for an RSS feed scraper application
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
